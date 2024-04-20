@@ -17,7 +17,7 @@
 
  ## :pushpin: Projeto
  <p>
-   Acesse o link para ter acesso ao projeto: <a href="">Link do projeto</a>
+   Acesse o link para ter acesso ao projeto: <a href="https://hugo-leite.github.io/cardapio-online-devclub/">Link do projeto</a>
  </p>
 
  ## :file_folder: Processo
